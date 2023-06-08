@@ -1,0 +1,3 @@
+C:/Users/abram/CLionProjects/coursew/cmake-build-debug/CMakeFiles/coursew.dir
+C:/Users/abram/CLionProjects/coursew/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/abram/CLionProjects/coursew/cmake-build-debug/CMakeFiles/rebuild_cache.dir
